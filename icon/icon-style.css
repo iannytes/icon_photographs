@@ -1,0 +1,39 @@
+@import url(http://fonts.googleapis.com/css?family=Quicksand:400,300);
+*{
+margin: 0;
+	}
+
+p{
+	font-size: 16pt; 
+	line-height: 39px;
+	font-family: 'Quicksand', sans-serif;
+	font-weight: 300;	
+}
+
+blockquote{
+	margin: 30px;
+	font-size: 32pt; 
+	font-family: 'Quicksand', sans-serif;
+	font-weight: 400;	
+	border: none;
+}
+
+
+
+
+.right{
+	float: right;
+}
+.center{
+	margin: auto;
+}
+.background{
+	width: 1500px;
+	height: 2000px;
+	background-color: #D8D8D8;
+
+}
+.heading{
+	width: 1550px;
+	margin:0;
+}
